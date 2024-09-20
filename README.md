@@ -7,7 +7,7 @@
 
 ## <a name="introduction"> Introduction</a>
 
-Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.
+FitTrack is a MERN stack web-app that helps users track calories and workouts effortlessly. With an intuitive interface, you can log workouts and monitor progress in real-time.
 
 ## <a name="tech-stack"> Tech Stack</a>
 
