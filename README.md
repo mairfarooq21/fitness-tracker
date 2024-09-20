@@ -11,8 +11,10 @@ Built with Next.js, TailwindCSS, and TypeScript, this landing page not only look
 
 ## <a name="tech-stack"> Tech Stack</a>
 
-- Next.js
-- Tailwind CSS
+- React.js
+- Node.js
+- Express
+- MongoDB
 
 ## <a name="features"> Features</a>
 
@@ -60,7 +62,7 @@ npm install
 **Running the Project**
 
 ```bash
-npm run dev
+npm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
