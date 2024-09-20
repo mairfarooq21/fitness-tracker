@@ -18,17 +18,15 @@ FitTrack is a MERN stack web-app that helps users track calories and workouts ef
 
 ## <a name="features"> Features</a>
 
- **Appealing Hero Section**: Visually striking hero section that captures attention and sets the tone for the website
+ **User Authentication**: Secure sign-in and sign-up functionality to protect user data.
 
- **Camp Exploration Section**: Showcase various camps in a dedicated section, allowing users to explore different options.
+ **Calorie Tracking**: Easily log and monitor calories burned during workouts.
 
- **Engaging Travel Guide Section**: A compelling travel guide section with informative content and captivating visuals.
+ **Workout Logging**: Effortlessly track workouts using a user-friendly interface.
 
- **Feature-Rich Section**: A complex and feature-rich section offering advanced functionalities or in-depth information.
+ **API Integration**: Seamless communication with the backend for real-time data updates.
 
- **Call to Action for Mobile Apps**: A call-to-action section encouraging users to explore the mobile app version, complete with download links.
-
- **Footer**: Comprehensive footer section containing site and social media links for easy navigation and connectivity.
+ **Personalized Dashboard**: View your fitness progress at a glance with an intuitive dashboard.
 
 and many more, including code architecture and reusability 
 
